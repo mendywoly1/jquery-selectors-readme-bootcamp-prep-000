@@ -1,2 +1,5 @@
 // declare your functions here...
-function patagr
+function paragraphSelector() {
+  ptags = $('p')
+  return ptags  
+}
