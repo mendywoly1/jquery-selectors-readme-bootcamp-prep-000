@@ -3,3 +3,5 @@ function paragraphSelector() {
   ptags = $('p')
   return ptags  
 }
+
+function 
