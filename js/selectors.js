@@ -19,6 +19,9 @@ function divSelector() {
   return $('.pics')
 }
 
+function 
+
+
 function firstListItem() {
   return $('#pic-list ul')
 }
