@@ -4,6 +4,8 @@ function paragraphSelector() {
   return ptags  
 }
 
+function 
+
 function lastImageSelector() {
   return $('img:last')
 }
