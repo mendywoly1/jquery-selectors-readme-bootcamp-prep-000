@@ -4,11 +4,13 @@ function paragraphSelector() {
   return ptags  
 }
 
-function 
 
 function lastImageSelector() {
   return $('img:last')
 }
+
+function  
+
 
 function divSelector() {
   return $('.pics')
